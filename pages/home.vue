@@ -7,7 +7,6 @@
         <footer>
           <small>
             <em>&mdash;by MarkingCloud</em>
-            <>えらーー
           </small>
         </footer>
       </blockquote>
